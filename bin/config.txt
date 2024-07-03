@@ -1,0 +1,6 @@
+folders=
+serverHost=
+serverUser=
+privateKeyPath=
+serverPath=
+port=
